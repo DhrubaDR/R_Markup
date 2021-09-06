@@ -1,0 +1,3 @@
+download data- the murders data was downloaded in .csv file
+wrangle_data- It is used to arrange the data as needed and stored as .rda file
+analysis- this file is used to create a ggplot .png file
